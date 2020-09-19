@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d9ff17102956694069ae5414c37c6298",
+    "revision": "a2f7a8b6afce9d0521981a04d103e255",
     "url": "/leslieswap/index.html"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/leslieswap/static/js/9.ac412912.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0d4a1058932e9157dc26",
-    "url": "/leslieswap/static/js/main.7542ace8.chunk.js"
+    "revision": "cb5cf4fec81357bc6827",
+    "url": "/leslieswap/static/js/main.cdd570b2.chunk.js"
   },
   {
     "revision": "cd97e6f5eeea8c812fb6",
